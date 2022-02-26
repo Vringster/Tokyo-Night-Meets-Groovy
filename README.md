@@ -1,4 +1,4 @@
-# Tokyo Night Theme for [Cider Music](https://cider.sh)
+# Tokyo Night x Groovy Theme for [Cider Music](https://cider.sh)
 
 > A clean theme for [Cider Music](https://cider.sh).
 
