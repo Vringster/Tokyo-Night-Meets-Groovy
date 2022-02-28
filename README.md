@@ -1,6 +1,6 @@
 # Tokyo Night x Groovy Theme for [Cider Music](https://cider.sh)
 
-This theme is based on the theme developed by [Booploops](https://github.com/booploops): [Groovy Theme for Cider] (https://github.com/booploops/CiderGroovyTheme)
+This theme is based on the theme developed by [Booploops](https://github.com/booploops): [Groovy Theme for Cider](https://github.com/booploops/CiderGroovyTheme)
 
 > A clean theme for [Cider Music](https://cider.sh).
 
